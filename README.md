@@ -1,4 +1,4 @@
-➤Comandos
+=====Comandos=====
 
 pkg update
 
@@ -14,18 +14,18 @@ bash install.sh
 
 npm start
 
-➤Debes de tener 2 dispositivos para poder escanear 
+✅|Debes de tener 2 dispositivos para poder escanear 
 
-➤Es self bot así que lo puedes usar en tu mismo número
+✅|Es self bot así que lo puedes usar en tu mismo número
 
-➤Aplicacion utilizada - TERMUX
+✅|Aplicacion utilizada - TERMUX
 
-➤Para volverlo a activar usa 
+✅|Para volverlo a activar usa 
 
 cd self-bot
 npm start
 
-➤Para volverlo a activar en caso de cerrar wsp web o cambiar de número
+✅|Para volverlo a activar en caso de cerrar wsp web o cambiar de número
 
 cd self-bot
 rm session.json
